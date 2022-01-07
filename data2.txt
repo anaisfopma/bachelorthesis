@@ -1,0 +1,12 @@
+author	yi	vi
+Babaali & Gonzalez (2015)	0.66364	0.01723
+Banditvilai (2016)	0.18352	0.06695
+Bortnik et al. (2017)	0.16812	0.08028
+Botts et al. (2018)	-0.06892	0.00777 
+Callahan (2016)	0.22915	0.01933
+Dry et al. (2018)	0.87658	0.00556
+Jonsdottir et al. (2017)	0.914925	0.17658
+Potter (2015)	0.51039	0.04130
+Reyneke et al. (2018)	0.08531	0.00142
+Thai et al. (2017)	0.29 	0.09186
+Yapici (2016)	0.75	0.07020

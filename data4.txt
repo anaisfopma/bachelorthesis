@@ -1,0 +1,4 @@
+author	yi	vi
+Babaali & Gonzalez (2015)	0.66364	0.01723
+Callahan (2016)	0.22915	0.01933
+Jonsdottir et al. (2017)	0.914925	0.17658
